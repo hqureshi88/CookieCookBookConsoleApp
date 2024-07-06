@@ -1,0 +1,15 @@
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/obj/Debug/net7.0/CookieCookBook.csproj.AssemblyReference.cache
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/obj/Debug/net7.0/CookieCookBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/obj/Debug/net7.0/CookieCookBook.AssemblyInfoInputs.cache
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/obj/Debug/net7.0/CookieCookBook.AssemblyInfo.cs
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/obj/Debug/net7.0/CookieCookBook.csproj.CoreCompileInputs.cache
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/bin/Debug/net7.0/CookieCookBook
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/bin/Debug/net7.0/CookieCookBook.deps.json
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/bin/Debug/net7.0/CookieCookBook.runtimeconfig.json
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/bin/Debug/net7.0/CookieCookBook.dll
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/bin/Debug/net7.0/CookieCookBook.pdb
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/obj/Debug/net7.0/CookieCookBook.dll
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/obj/Debug/net7.0/refint/CookieCookBook.dll
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/obj/Debug/net7.0/CookieCookBook.pdb
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/obj/Debug/net7.0/CookieCookBook.genruntimeconfig.cache
+/Users/hamidqureshi/Projects/OOP-practice/CookieCookBook/obj/Debug/net7.0/ref/CookieCookBook.dll
